@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955169095791",
+    "project_id": "sanberapp-94b24",
+    "storage_bucket": "sanberapp-94b24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955169095791:android:f784a2877e81e5e1750d9a",
+        "android_client_info": {
+          "package_name": "com.example.integrasi_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV0AHwmAV6c9_mKL-IDReGCBejVjalAQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
